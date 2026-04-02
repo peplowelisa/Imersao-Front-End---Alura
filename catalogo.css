@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Chango&family=Special+Elite&display=swap');
 
+
+#theme-toggle, .theme-switch, .light-theme, .dark-theme { display: none !important; }
+
 /* ── Variáveis B&W ──────────────────────── */
 :root {
     --black:       #0a0a0a;
