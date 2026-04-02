@@ -48,5 +48,3 @@ Este foi o meu **primeiro projeto Front-End**, desenvolvido com o objetivo de co
 
 - **O que é ilustrativo:** Os menus de navegação superior (Início, Séries, Filmes, etc), a barra de pesquisa e as notificações foram mantidos para preservar a fidelidade visual da interface de streaming, servindo como estudo de layout e design.
 
-  
-Desenvolvido por Elisa Peplow.
