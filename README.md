@@ -2,6 +2,8 @@
 
 **Live Demo:** [Clique aqui para acessar o site](https://peplowelisa.github.io/Imersao-Front-End---Alura/)
 
+![Home do Projeto](Print-VintageTV.png)
+
 📺 Sobre o Projeto:
 Projeto desenvolvido durante a **Imersão Front-End da Alura**. A proposta foi criar uma interface de streaming funcional, baseada na Netflix. 
 
