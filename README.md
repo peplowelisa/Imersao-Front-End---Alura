@@ -1,6 +1,6 @@
 # 📺 Vintage TV - Streaming Retrô
 
-**Live Demo:** [Clique aqui para acessar o site]([https://SEU-USUARIO.github.io/vintage-tv/](https://peplowelisa.github.io/Imersao-Front-End---Alura/))
+**Live Demo:** [Clique aqui para acessar o site](https://peplowelisa.github.io/Imersao-Front-End---Alura/)
 
 📺 Sobre o Projeto:
 Projeto desenvolvido durante a **Imersão Front-End da Alura**. A proposta foi criar uma interface de streaming funcional, baseada na Netflix. 
