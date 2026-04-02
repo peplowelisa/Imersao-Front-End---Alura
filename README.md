@@ -38,5 +38,15 @@ Perfil Caneco: Uma seleção focada em clássicos e conteúdos que conversam com
 
 A interface foi pensada para ser puramente "Dark Mode", simulando o vidro escuro de uma TV antiga. O efeito de *scanlines* e o *grain* de película foram feitos inteiramente com CSS e SVG inline para garantir performance.
 
+---
 
+### ⚠️ Notas de Desenvolvimento
+
+Este foi o meu **primeiro projeto Front-End**, desenvolvido com o objetivo de colocar em prática conceitos fundamentais de desenvolvimento web.
+
+- **O que está funcional:** A tela de seleção de perfis, a persistência de dados via `localStorage` e a renderização dinâmica do catálogo baseada no usuário escolhido.
+
+- **O que é ilustrativo:** Os menus de navegação superior (Início, Séries, Filmes, etc), a barra de pesquisa e as notificações foram mantidos para preservar a fidelidade visual da interface de streaming, servindo como estudo de layout e design.
+
+  
 Desenvolvido por Elisa Peplow.
